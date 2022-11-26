@@ -17,13 +17,12 @@
 .addressContainer {
   background: #fff;
   padding: 24px;
-  border-radius: 4px;
-  text-align: center;
+  text-align: left;
 }
 
-.addressText {
-  margin-bottom: 16px;
+.contentText {
   font-weight: 500;
+  margin-bottom: 16px;
 }
 
 .btn {
